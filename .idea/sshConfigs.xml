@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="szuflandia.pjwstk.edu.pl" id="55121819-af19-435d-b17a-d76d2b8c7ad4" port="22" nameFormat="DESCRIPTIVE" username="s23449" />
+    </configs>
+  </component>
+</project>
