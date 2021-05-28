@@ -12,7 +12,7 @@ if(isset($_POST['user']) && isset($_POST['password'])) {
 <html lang="en">
     <head>
         <title>Very Secret Page</title>
-        <meta charset="UTF-8">
+        C
     </head>
     <body>
     <h1>Very Secret Page</h1>
